@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #9ab1ff; 
+    height: 75px;
+    display:flex !important;
+    box-shadow: 0 2px 4px rgba(255, 6, 6, 0.1); 
+  }
+  /* .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  } */
+  
+  .navbar-logo {
+    justify-content: flex-start ;
+    
+  } 
+  
+  .navbar-logo-img {
+    height: 70px;
+    width: 70px;
+
+    /* Adjust the height to fit your design */
+  }
